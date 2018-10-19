@@ -1,5 +1,7 @@
 # NodeDirectUploader
 
+[![GuardRails badge](https://badges.production.guardrails.io/juliendasilva/NodeDirectUploader.svg)](https://www.guardrails.io)
+
 
 ## Licensing
 
